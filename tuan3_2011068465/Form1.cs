@@ -40,5 +40,11 @@ namespace tuan3_2011068465
             this.Close();
         }
 
+        // phương thức mới
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // Hello các đồng chí
+
+        }
     }
 }
